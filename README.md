@@ -1,2 +1,2 @@
 # GITDEMO-
-html and css
+It is for git and github.
